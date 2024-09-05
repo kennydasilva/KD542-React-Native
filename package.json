@@ -1,6 +1,7 @@
 {
   "name": "react-native",
   "main": "expo-router/entry",
+  "scheme":"aora",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
